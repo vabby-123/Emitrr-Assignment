@@ -1,6 +1,6 @@
 
 
-# Language Learning Web App - Emitrr Assignment
+# Language Learning Web App
 
 Welcome to the Language Learning Web App repository, developed as an assignment for Emitrr. This web application is designed to provide users with an engaging platform to learn and practice different languages using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
